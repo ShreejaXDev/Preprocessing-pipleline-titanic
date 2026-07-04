@@ -65,36 +65,17 @@ The implementation demonstrates multiple preprocessing techniques, compares diff
 
 ---
 
-## 📂 Project Structure
-
-```text
 Preprocessing-Pipeline/
-│
-├── data/
-│   └── Titanic_Preprocessed.csv
 │
 ├── notebooks/
 │   └── preprocessing_pipeline.ipynb
 │
-├── src/
-│   ├── imputation.py
-│   ├── outlier_detection.py
-│   ├── encoding.py
-│   ├── memory_optimization.py
-│   └── preprocessing_pipeline.py
-│
-├── images/
-│   ├── missing_values.png
-│   ├── boxplot_before.png
-│   ├── boxplot_after.png
-│   └── distribution.png
+├── data/
+│   └── Titanic_Preprocessed.csv
 │
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-```
-
----
 
 ## 🗂 Dataset
 
